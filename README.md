@@ -1,1 +1,1 @@
-# kljashdfkljsdf
+M Centers 3.0 is a custom modification for Minecraft designed to give players access to the game without needing to purchase it, while also enabling online functionality. With this mod, users can explore the full Minecraft experience, including multiplayer features, community servers, and cooperative gameplay, all without the usual restrictions.
